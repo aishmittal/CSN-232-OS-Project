@@ -1,0 +1,4 @@
+[Screenlet Package]
+Name=DiskSpaceScreenlet
+Desc=A screenlet that displays free/used space information for selected hard drives.
+Created=2017/05/03
