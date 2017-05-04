@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=TodoList
+Comment= it displays the todo list by typing your entries.
+
+Type=Service
+Icon=kde
+X-KDE-ServiceTypes=Plasma/Applet
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+
+X-KDE-PluginInfo-Author=K. Uday Kanth Reddy
+X-KDE-PluginInfo-Email=kudaykanth96@gmail.com
+X-KDE-PluginInfo-Name=org.todolist
+X-KDE-PluginInfo-Version=4
+
+X-KDE-PluginInfo-Category=Utilities
+#X-KDE-PluginInfo-Depends=
