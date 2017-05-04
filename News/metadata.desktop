@@ -1,0 +1,23 @@
+[Desktop Entry]
+Name=news
+Comment=A widget in QML for getting the current IP address
+Icon=news-subscribe
+
+ 
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-DefaultSize=500,400
+ 
+
+X-KDE-PluginInfo-Author=Aishwarya Mittal
+X-KDE-PluginInfo-Email=aishwaryamittal2011@gmail.com
+X-KDE-PluginInfo-Website=http://www.example.com
+X-KDE-PluginInfo-Category=Utilities
+X-KDE-PluginInfo-Name=news
+X-KDE-PluginInfo-Version=0.3
+ 
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-ServiceTypes=Plasma/Applet,Plasma/PopupApplet
+Type=Service

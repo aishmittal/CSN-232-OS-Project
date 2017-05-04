@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+    <kcfgfile name=""/>
+
+    <group name="General">
+        <entry name="refresh" type="Int">
+            <default>30</default>
+        </entry>
+        <entry name="fontSize" type="Int">
+            <default>12</default>
+        </entry>
+        <entry name="backColor" type="String">
+            <default>#e8e8e8</default>
+        </entry>
+        <entry name="foreColor" type="String">
+            <default>#000000</default>
+        </entry>
+        <entry name="headerColor" type="String">
+            <default>#0000ff</default>
+        </entry>
+        <entry name="listOpacity" type="Double">
+            <default>0.80</default>
+        </entry>
+    </group>
+        
+</kcfg>
