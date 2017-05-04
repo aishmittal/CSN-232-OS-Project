@@ -1,0 +1,25 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Uday Disk Space Usage
+
+Comment=It finds the disk space information and displays it
+
+
+Type=Service
+Icon=kde
+
+X-KDE-ServiceTypes=Plasma/Applet
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-StandAloneApp=true
+
+X-KDE-PluginInfo-Author=Uday Kanth Reddy
+X-KDE-PluginInfo-Email=kudaykanth96@gmail.com
+X-KDE-PluginInfo-Name=diskusageplasmoid
+X-KDE-PluginInfo-Version=1.0
+#X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=System Information
+#X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-FormFactors=tablet,mediacenter,desktop
